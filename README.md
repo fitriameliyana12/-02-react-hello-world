@@ -54,8 +54,4 @@ Cobalah buat project react lainnya dengan menggunakan framework Remix dan Gatsby
 ![img](/img/welcome%20remix.PNG)
 ![img](/img/welcome%20gatsby.PNG)
 
-ketika mempertimbangkan opsi Next.js, Remix, dan Gatsby, jelas bahwa Next.js menonjol sebagai kerangka kerja yang paling matang dan mapan. Dengan basis pengguna yang lebih besar, dokumentasi yang luas, dan dukungan komunitas yang kuat, Next.js adalah pilihan yang dapat diandalkan. Ini juga mendukung situs statis dan dinamis, menjadikannya solusi yang cocok untuk berbagai kasus penggunaan.
-
-Di sisi lain, jika kesederhanaan, kecepatan, dan pengaturan minimal adalah prioritas Anda, Remix mungkin merupakan pilihan yang lebih sesuai. Meskipun masih dalam tahap pengembangan dan belum memiliki banyak contoh serta kasus penggunaan, aplikasi ini mendapatkan tanggapan positif dari para pengembang dan menunjukkan harapan di masa depan.
-
-Mengenai Gatsby, ia mengalami penurunan popularitas, namun tetap menjadi pilihan yang lebih cepat dan ringan karena kemampuan pembuatan situs statisnya.
+ketika mempertimbangkan opsi Next.js, Remix, dan Gatsby, jelas bahwa Next.js menonjol sebagai kerangka kerja yang paling matang dan mapan. Dengan basis pengguna yang lebih besar, dokumentasi yang luas, dan dukungan komunitas yang kuat, Next.js adalah pilihan yang dapat diandalkan. Ini juga mendukung situs statis dan dinamis, menjadikannya solusi yang cocok untuk berbagai kasus penggunaan.Di sisi lain, jika kesederhanaan, kecepatan, dan pengaturan minimal adalah prioritas Anda, Remix mungkin merupakan pilihan yang lebih sesuai. Meskipun masih dalam tahap pengembangan dan belum memiliki banyak contoh serta kasus penggunaan, aplikasi ini mendapatkan tanggapan positif dari para pengembang dan menunjukkan harapan di masa depan.Mengenai Gatsby, ia mengalami penurunan popularitas, namun tetap menjadi pilihan yang lebih cepat dan ringan karena kemampuan pembuatan situs statisnya.
