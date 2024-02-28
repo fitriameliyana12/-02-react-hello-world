@@ -8,3 +8,11 @@ untuk menangani error tersebut kita harus menambahi file next.config.js. Berikut
 dan menambahkan kode program di bawah ini untuk file page.tsx
 ![img](/03-belajar-komponen/my-app/img/kode%20program%20page.PNG)
 
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+Hasilnya seperti gambar di bawah ini.
+![img](/03-belajar-komponen/my-app/img/kode%20program%20galery.PNG)
+
+
+
+
