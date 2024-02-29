@@ -35,7 +35,6 @@ const person = {
     color: 'pink'
   }
 };
-  
 export default function TodoList() {
     return (
       <div style={person.theme}>

@@ -41,6 +41,24 @@ Berikut hasil gambarnya.
 ![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%205.PNG)
 
 
+Soal 6
+Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Kode program yang diperbaiki akan menjadi seperti di bawah ini.
+![img](/03-belajar-komponen/my-app/img/kode%20program%20no%206.PNG)
+
+Terdapat penambahan kode program yaitu dolar($) pada src. Dan hasil dari kode program diatas adalah.
+untuk imagesize atau ukuran s, hasilnya di bawah ini.
+![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%206%20ukuran%20s.PNG)
+
+sedangkan untuk imagesize atau ukuran b, maka hasilnya seperti di bawah ini.
+![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%206%20ukuran%20b.PNG)
+
+
+
+
+
+
 
 
 
