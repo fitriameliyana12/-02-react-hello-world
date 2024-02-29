@@ -18,6 +18,7 @@
 import Bio from "@/components/Bio";
 import { Gallery } from "@/components/gallery";
 import MyGallery from "@/components/mygallery";
+import MyProfile from "@/components/myprofile";
 import TodoList from "@/components/todoList";
 
 export default function Home() {
@@ -32,12 +33,13 @@ export default function Home() {
   // </div>
 
   <section>
-      <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
+      {/* <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
       <hr />
       <Gallery />
       <hr />
       <TodoList />
-      <MyGallery/>
+      <MyGallery/> */}
+      <MyProfile/>
     </section>
 
   
