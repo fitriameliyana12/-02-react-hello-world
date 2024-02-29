@@ -17,6 +17,7 @@
 
 import Bio from "@/components/Bio";
 import { Gallery } from "@/components/gallery";
+import TodoList from "@/components/todoList";
 
 export default function Home() {
   return (
@@ -25,7 +26,10 @@ export default function Home() {
       <div className="grid grid-cols-3 gap-8 justify-center">
      <Gallery/>
      </div> */}
-     <Bio/>
+     {/* <Bio/> */}
+     <TodoList/>
+
+     
   </div>
     
   );
