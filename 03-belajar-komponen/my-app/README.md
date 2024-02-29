@@ -18,8 +18,14 @@ maka hasil akhirnya gambar pertama akan mengalami penurunan seperti pada gambar 
 
 Soal 3
 Silakan perbaiki kode JSX berikut ini. Anda boleh menggunakan konverter atau perbaiki secara manual.Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi?
+Berikut kode program setelah diperbaiki.
+![img](/03-belajar-komponen/my-app/img/kode%20program%20no%203.PNG)
 Error terjadi karena kurang kode program. seperti kurang tanda <> setelah return. Kemudian untuk tag div class nya kurang kata name, jadi className. Begitu juga dengan tag p, classnya kurang name. Lalu untuk tag b harusnya setelah kata ilmuwan. sehingga jika sudah di benarkan maka hasilnya akan seperti pada gambar di bawah ini.
 ![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%203.PNG)
+
+
+Soal 4
+Kode di atas masih terdapat error, silakan diperbaiki.
 
 
 
