@@ -55,6 +55,19 @@ sedangkan untuk imagesize atau ukuran b, maka hasilnya seperti di bawah ini.
 ![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%206%20ukuran%20b.PNG)
 
 
+Soal 7
+Jika kode di atas terdapat error, silakan diperbaiki.
+Komponen MyGallery ini berisi dua markup yang sama persis. Ekstraklah menjadi komponen MyProfile untuk mengurangi duplikasi. Anda perlu memilih props apa saja yang akan dikirimkan.
+sCapture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+Berikut kode program setelah di perbaiki
+![img](/03-belajar-komponen/my-app/img/kode%20program%20no%207.PNG)
+
+yaitu membuat folder utils dan file utils.tsx. Kemudian untuk import @ nya diganti menjadi ".."
+
+dan hasil kode program diatas adalah 
+![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%207.PNG)
+
+
 
 
 
