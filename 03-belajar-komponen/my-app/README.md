@@ -9,6 +9,7 @@ dan menambahkan kode program di bawah ini untuk file page.tsx
 ![img](/03-belajar-komponen/my-app/img/kode%20program%20page.PNG)
 
 
+Soal 2
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
 Hasilnya seperti gambar di bawah ini.
 ![img](/03-belajar-komponen/my-app/img/kode%20program%20galery.PNG)
@@ -20,6 +21,7 @@ Soal 3
 Silakan perbaiki kode JSX berikut ini. Anda boleh menggunakan konverter atau perbaiki secara manual.Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi?
 Berikut kode program setelah diperbaiki.
 ![img](/03-belajar-komponen/my-app/img/kode%20program%20no%203.PNG)
+
 Error terjadi karena kurang kode program. seperti kurang tanda <> setelah return. Kemudian untuk tag div class nya kurang kata name, jadi className. Begitu juga dengan tag p, classnya kurang name. Lalu untuk tag b harusnya setelah kata ilmuwan. sehingga jika sudah di benarkan maka hasilnya akan seperti pada gambar di bawah ini.
 ![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%203.PNG)
 
@@ -28,8 +30,14 @@ Soal 4
 Kode di atas masih terdapat error, silakan diperbaiki.
 Berikut kode program setelah di perbaiki
 ![img](/03-belajar-komponen/my-app/img/kode%20program%20no%204.PNG)
+
 Maka hasilnya seperti di bawah ini 
 ![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%204.PNG)
+
+Soal 5
+Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person.
+Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tampilan web saat ini?
+
 
 
 
