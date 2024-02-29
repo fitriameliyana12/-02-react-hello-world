@@ -17,6 +17,7 @@
 
 import Bio from "@/components/Bio";
 import { Gallery } from "@/components/gallery";
+import MyGallery from "@/components/mygallery";
 import TodoList from "@/components/todoList";
 
 export default function Home() {
@@ -36,6 +37,7 @@ export default function Home() {
       <Gallery />
       <hr />
       <TodoList />
+      <MyGallery/>
     </section>
 
   
