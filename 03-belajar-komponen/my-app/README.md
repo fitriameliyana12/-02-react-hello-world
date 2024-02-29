@@ -28,7 +28,7 @@ Error terjadi karena kurang kode program. seperti kurang tanda <> setelah return
 
 Soal 4
 Kode di atas masih terdapat error, silakan diperbaiki.
-Berikut kode program setelah di perbaiki
+Berikut kode program setelah di perbaiki. Menambahkan name pada person.
 ![img](/03-belajar-komponen/my-app/img/kode%20program%20no%204.PNG)
 
 Maka hasilnya seperti di bawah ini 
@@ -37,6 +37,8 @@ Maka hasilnya seperti di bawah ini
 Soal 5
 Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person.
 Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tampilan web saat ini?
+Berikut hasil gambarnya.
+![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%205.PNG)
 
 
 
