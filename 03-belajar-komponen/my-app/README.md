@@ -26,6 +26,13 @@ Error terjadi karena kurang kode program. seperti kurang tanda <> setelah return
 
 Soal 4
 Kode di atas masih terdapat error, silakan diperbaiki.
+Berikut kode program setelah di perbaiki
+![img](/03-belajar-komponen/my-app/img/kode%20program%20no%204.PNG)
+Maka hasilnya seperti di bawah ini 
+![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%204.PNG)
+
+
+
 
 
 
