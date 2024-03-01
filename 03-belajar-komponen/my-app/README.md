@@ -82,6 +82,19 @@ Hasilnya seperti di bawah ini
 ![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%208.PNG)
 
 
+Soal 9
+Jika kode di atas terdapat error, silakan diperbaiki.
+Buatlah komponen Card dari kode di atas, lalu gunakan prop children untuk mengirimkan JSX yang berbeda.
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Berikut kode programnya 
+![img](/03-belajar-komponen/my-app/img/kode%20program%20no%209.PNG)
+
+Hasilnya seperti di bawah ini
+![img](/03-belajar-komponen/my-app/img/jawaban%20no%209.PNG)
+
+
+
 
 
 
