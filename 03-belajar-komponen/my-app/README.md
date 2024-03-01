@@ -68,6 +68,20 @@ dan hasil kode program diatas adalah
 ![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%207.PNG)
 
 
+Soal 8
+Jika kode di atas terdapat error, silakan diperbaiki.
+
+Ubahlah komponen MyAvatar untuk diolah ukuran gambarnya berdasarkan prop size. Khususnya, jika size kurang dari 90, kirimkan 's' ("small") bukan 'b' ("big") pada fungsi getImageUrl. Pastikan bahwa perubahan yang Anda buat berjalan dengan cara me-render avatars dengan nilai prop size yang berbeda dan buka gambar pada tab baru di browser.
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+Berikut kode programnya
+![img](/03-belajar-komponen/my-app/img/kode%20program%20no%208.PNG)
+
+Hasilnya seperti di bawah ini
+
+![img](/03-belajar-komponen/my-app/img/jawaban%20nomer%208.PNG)
+
+
 
 
 
