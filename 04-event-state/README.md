@@ -10,3 +10,31 @@ Selanjutnya pada file src/app/page.tsx kita ubah menjadi seperti berikut
 Hasilnya seperti di bawah ini 
 
 ![img](/04-event-state/img/hasil%20no%201%20ini%20tombol.PNG)
+
+
+Langkah 2
+
+Perhatikan kode button.tsx berikut
+
+![img](/04-event-state/img/button%20langkah%202.PNG)
+
+Jika terjadi error seperti gambar berikut
+
+![img](/04-event-state/img/erorr%20langkah%202.PNG)
+
+Maka kita butuh mengatur agar komponen yang kita gunakan menjadi komponen client. Untuk menjadikan komponen client, kita cukup memberikan perintah ini "use client"; pada baris pertama file page.tsx
+
+![img](/04-event-state/img/button%20langkah%202%20biar%20tdk%20error.PNG)
+
+Hasilnya seperti di bawah ini
+![img](/04-event-state/img/hasil%20setelah%20error%20button%202.PNG)
+
+Selain itu, sebagai alternatif, Kita juga dapat mendefinisikan event handler secara inline dalam JSX secara langsung seperti berikut
+
+![img](/04-event-state/img/koding%20jsx.PNG)
+
+Hasilnya seperti di bawah ini
+
+![img](/04-event-state/img/hasil%20jsx.PNG)
+
+
