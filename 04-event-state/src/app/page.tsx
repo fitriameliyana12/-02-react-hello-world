@@ -4,6 +4,7 @@ import Gallery from "@/components/gallery";
 import Form, { Form_2 } from "@/components/form";
 import Image from "next/image";
 import Accordion from "@/components/accordion";
+import Chat from "@/components/chat";
 
 export default function Home() {
   return (
@@ -27,6 +28,8 @@ export default function Home() {
     <Form_2 />
     <br></br>
     <Accordion />
+    <br></br>
+    <Chat />
     </>
   );
 }

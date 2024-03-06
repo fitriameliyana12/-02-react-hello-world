@@ -162,5 +162,17 @@ Jika kita meng-klik tampilkan pada button Etymology, maka hasilnya seperti di ba
 
 ![img](/04-event-state/img/hasil%20praktikum%206%20langkah%201%20kedua.PNG)
 
+# Langkah 2
+
+Kita buat file di src/components/chat.tsx
+
+![img](/04-event-state/img/kode%20program%20chat%20pertama.PNG)
+![img](/04-event-state/img/kode%20program%20chat%20kedua.PNG)
+![img](/04-event-state/img/kode%20program%20chat%20ketiga.PNG)
+
+berikut kode program page.tsx
+
+![img](/04-event-state/img/kode%20program%20page%20praktikum%206%20langkah%202.PNG)
+
 
 
