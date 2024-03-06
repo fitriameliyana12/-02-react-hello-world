@@ -1,6 +1,6 @@
 # PRAKTIKUM 1 Event Handler
 
-Langkah 1
+# Langkah 1
 
 Kita mencoba membuat tombol sederhana yang belum bisa melakukan apa-apa alias belum kita buat event handler untuk tombol tersebut. Sebagai contoh, berikut adalah sebuah tombol yang belum melakukan apa pun. Kita buat folder/file baru di src/component/button.tsx
 
@@ -15,7 +15,7 @@ Hasilnya seperti di bawah ini
 ![img](/04-event-state/img/hasil%20no%201%20ini%20tombol.PNG)
 
 
-Langkah 2
+# Langkah 2
 
 Perhatikan kode button.tsx berikut
 
@@ -56,7 +56,7 @@ Hasilnya sebagai berikut
 
 # Praktikum 3
 
-Langkah 1 - Propagation
+# Langkah 1 - Propagation
 
 Sebagai contoh coba kita modifikasi file button.tsx seperti berikut
 
@@ -66,14 +66,14 @@ Kemudian kita modifikasi fiile page.tsx
 
 ![img](/04-event-state/img/kode%20program%20page%20praktikum%203.PNG)
 
-Langkah 2 - Stop Propagation
+# Langkah 2 - Stop Propagation
 
 ![img](/04-event-state/img/kode%20program%20button%20praktikum%203%20langkah%202.PNG)
 
 
 # Praktikum 4
 
-Langkah 1
+# Langkah 1
 
 Kita buat file data dummy untuk mencoba state pada src/data/article.js yang berisi seperti berikut
 
@@ -87,13 +87,13 @@ Kita panggil komponen tersebut pada page.tsx
 
 ![img](/04-event-state/img/kode%20program%20page%20praktikum%204%20langkah%201.PNG)
 
-Langkah 2: Menambahkan variabel state
+# Langkah 2: Menambahkan variabel state
 
 ![img](/04-event-state/img/kode%20program%20gallery%20praktikum%204%20langkah%202.PNG)
 
 # Praktikum 5
 
-Langkah 1
+# Langkah 1
 
 Kita buat komponen baru src/components/form.tsx
 
@@ -118,7 +118,7 @@ Tetapi jika kita menjawab jawaban lain, maka hasilnya seperti di bawah ini
 ![img](/04-event-state/img/hasil%20jawaban%20form%20tikus%20salah.PNG)
 
 
-Langkah 2
+# Langkah 2
 
 Kita tambahkan kode berikut pada src/component/form.tsx
 
@@ -140,6 +140,27 @@ Coba perhatikan dan implementasikan kode berikut pada src/component/form.tsx
 Maka hasilnya seperti di bawah ini 
 
 ![img](/04-event-state/img/hasil%20praktikum%205%20langkah%20setelah%202.PNG)
+
+# Praktikum 6
+
+# Langkah 1
+
+Kita buat file komponen pada src/components/accordion.tsx
+
+![img](/04-event-state/img/kode%20program%20praktikum%206%20langkah%201%20accordian%20pertama.PNG)
+![img](/04-event-state/img/kode%20program%20praktikum%206%20langkah%201%20accordian%20kedua.PNG)
+
+Tambahkan pada file page.tsx xebagai berikut
+
+![img](/04-event-state/img/kode%20program%20page%20praktikum%206%20langkah%201.PNG)
+
+Maka hasilnya seperti di bawah ini
+
+![img](/04-event-state/img/hasil%20praktikum%206%20langkah%201%20pertama.PNG)
+
+Jika kita meng-klik tampilkan pada button Etymology, maka hasilnya seperti di bawah ini 
+
+![img](/04-event-state/img/hasil%20praktikum%206%20langkah%201%20kedua.PNG)
 
 
 
