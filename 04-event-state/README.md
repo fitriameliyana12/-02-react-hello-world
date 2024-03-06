@@ -90,3 +90,32 @@ Kita panggil komponen tersebut pada page.tsx
 Langkah 2: Menambahkan variabel state
 
 ![img](/04-event-state/img/kode%20program%20gallery%20praktikum%204%20langkah%202.PNG)
+
+# Praktikum 5
+
+Langkah 1
+
+Kita buat komponen baru src/components/form.tsx
+
+![img](/04-event-state/img/kode%20program%20Form%20praktikum%205.PNG)
+![img](/04-event-state/img/kode%20program%20form%20praktikum%205%20kedua.PNG)
+![img](/04-event-state/img/kode%20program%20form%20praktikum%205%20ketiga.PNG)
+
+Kemudian kita tambahkan kode pada file page.tsx
+
+![img](/04-event-state/img/kode%20program%20page%20praktikum%205.PNG)
+
+Maka, hasilnya seperti di bawah ini
+
+![img](/04-event-state/img/hasil%20form%20tikus.PNG)
+
+Kemudian jika kita menjawab Form tersebut dengan jawaban Tikus, maka hasilnya
+
+![img](/04-event-state/img/hasil%20jawaban%20benar%20tikus.PNG)
+
+Tetapi jika kita menjawab jawaban lain, maka hasilnya seperti di bawah ini
+
+![img](/04-event-state/img/hasil%20jawaban%20form%20tikus%20salah.PNG)
+
+
+
