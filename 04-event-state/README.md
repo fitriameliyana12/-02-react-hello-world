@@ -40,7 +40,7 @@ Hasilnya seperti di bawah ini
 
 ![img](/04-event-state/img/hasil%20jsx.PNG)
 
-Praktikum 2
+# Praktikum 2
 
 Kita buat fungsi baru pada component button.tsx
 
@@ -54,6 +54,18 @@ Hasilnya sebagai berikut
 
 ![img](/04-event-state/img/hasil%20praktikum%202.PNG)
 
-Praktikum 3
+# Praktikum 3
 
 Langkah 1 - Propagation
+
+Sebagai contoh coba kita modifikasi file button.tsx seperti berikut
+
+![img](/04-event-state/img/kode%20program%20button%20praktikum%203.PNG)
+
+Kemudian kita modifikasi fiile page.tsx
+
+![img](/04-event-state/img/kode%20program%20page%20praktikum%203.PNG)
+
+Langkah 2 - Stop Propagation
+
+![img](/04-event-state/img/kode%20program%20button%20praktikum%203%20langkah%202.PNG)
