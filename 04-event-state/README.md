@@ -69,3 +69,24 @@ Kemudian kita modifikasi fiile page.tsx
 Langkah 2 - Stop Propagation
 
 ![img](/04-event-state/img/kode%20program%20button%20praktikum%203%20langkah%202.PNG)
+
+
+# Praktikum 4
+
+Langkah 1
+
+Kita buat file data dummy untuk mencoba state pada src/data/article.js yang berisi seperti berikut
+
+![img](/04-event-state/img/kode%20program%20artikel%20js%20park%204%20langkah%201.PNG)
+
+Kemudian kita coba buat komponen baru di src/component/gallery.tsx
+
+![img](/04-event-state/img/kode%20program%20gallery%20praktikum%204%20langkah%201.PNG)
+
+Kita panggil komponen tersebut pada page.tsx
+
+![img](/04-event-state/img/kode%20program%20page%20praktikum%204%20langkah%201.PNG)
+
+Langkah 2: Menambahkan variabel state
+
+![img](/04-event-state/img/kode%20program%20gallery%20praktikum%204%20langkah%202.PNG)
