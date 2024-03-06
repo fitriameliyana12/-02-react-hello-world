@@ -174,5 +174,9 @@ berikut kode program page.tsx
 
 ![img](/04-event-state/img/kode%20program%20page%20praktikum%206%20langkah%202.PNG)
 
+Maka hasilnya seperti di bawah ini 
+
+![img](/04-event-state/img/hasil%20praktikum%206%20langkah%202.PNG)
+
 
 
