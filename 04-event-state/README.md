@@ -37,4 +37,16 @@ Hasilnya seperti di bawah ini
 
 ![img](/04-event-state/img/hasil%20jsx.PNG)
 
+Praktikum 2
 
+Kita buat fungsi baru pada component button.tsx
+
+![img](/04-event-state/img/kode%20program%20button%20prakyikum%202.PNG)
+
+Sekarang kita modifikasi file page.tsx seperti berikut
+
+![img](/04-event-state/img/kode%20program%20page%20praktikum%202.PNG)
+
+Hasilnya sebagai berikut
+
+![img](/04-event-state/img/hasil%20praktikum%202.PNG)
