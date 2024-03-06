@@ -118,4 +118,28 @@ Tetapi jika kita menjawab jawaban lain, maka hasilnya seperti di bawah ini
 ![img](/04-event-state/img/hasil%20jawaban%20form%20tikus%20salah.PNG)
 
 
+Langkah 2
+
+Kita tambahkan kode berikut pada src/component/form.tsx
+
+![img](/04-event-state/img/kode%20program%20form%20praktikum%205%20langkah%202%20pertama.PNG)
+![img](/04-event-state/img/kode%20program%20form%20praktikum%205%20langkah%202%20kedua.PNG)
+
+Kemudian tambahkan ke page.tsx
+
+![img](/04-event-state/img/kode%20program%20page%20praktikum%205%20langkah%202.PNG)
+
+Maka hasilnya seperti di bawah ini
+
+![img](/04-event-state/img/hasil%20praktikum%205%20langkah%202.PNG)
+
+Coba perhatikan dan implementasikan kode berikut pada src/component/form.tsx
+
+![img](/04-event-state/img/kode%20program%20form%20parktikum%205%20setelah%20langkah%202.PNG)
+
+Maka hasilnya seperti di bawah ini 
+
+![img](/04-event-state/img/hasil%20praktikum%205%20langkah%20setelah%202.PNG)
+
+
 

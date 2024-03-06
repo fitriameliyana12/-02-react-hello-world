@@ -65,3 +65,44 @@ export default function Form() {
             }, 500); //set timeout selama 0,5 detik
         });
     }
+
+    export function Form_2() {
+        const [firstName, setFirstName] = useState('');
+        const [lastName, setLastName] = useState('');
+        // const [fullName, setFullName] = useState('');
+        const fullName = firstName + ' ' + lastName;
+
+
+        function handleFirstNameChange(e) {
+            setFirstName(e.target.value);
+            // setFullName(e.target.value + ' ' + lastName);
+        }
+
+        function handleLastNameChange(e) {
+            setLastName(e.target.value);
+            // setFullName(firstName + ' ' + e.target.value);
+        }
+
+        return (
+            <>
+                <h2>Silahkan isi nama lengkap anda</h2>
+                <label className="block w-full m-2">
+                    Nama depan:
+                    <input className="text-sm text-black ml-2 rounded"
+                        value={firstName}
+                        onChange={handleFirstNameChange}
+                    />
+                </label>
+                
+                <label className="block w-full m-2">
+                    Nama Belakang:
+                    <input className="text-sm text-black ml-2 rounded"
+                        value={lastName}
+                        onChange={handleLastNameChange}
+                    />
+                </label>
+                <p>Nama Lengkap Anda adalah : <b className="text-blue-600">{fullName}</b></p>
+                </>
+
+        );
+    }
