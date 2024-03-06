@@ -50,3 +50,7 @@ Sekarang kita modifikasi file page.tsx seperti berikut
 Hasilnya sebagai berikut
 
 ![img](/04-event-state/img/hasil%20praktikum%202.PNG)
+
+Praktikum 3
+
+Langkah 1 - Propagation
