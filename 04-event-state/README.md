@@ -1,4 +1,7 @@
+# PRAKTIKUM 1 Event Handler
+
 Langkah 1
+
 Kita mencoba membuat tombol sederhana yang belum bisa melakukan apa-apa alias belum kita buat event handler untuk tombol tersebut. Sebagai contoh, berikut adalah sebuah tombol yang belum melakukan apa pun. Kita buat folder/file baru di src/component/button.tsx
 
 ![img](/04-event-state/img/kode%20program%20button%20no%201.PNG)
