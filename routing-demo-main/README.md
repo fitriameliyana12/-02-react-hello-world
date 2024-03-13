@@ -22,13 +22,9 @@ Kode program page.tsx dalam folder about
 
 ![img](/routing-demo-main/img/kode%20program%20page%20tsx%20folder%20about%20prak%201.PNG)
 
-Kode program page.tsx
-
-![img](/routing-demo-main/img/kode%20program%20page.tsx%20praktikum%201.PNG)
-
 Hasilnya 
 
-![img](/routing-demo-main/img/hasil%20praktikum%201.PNG)
+![img](/routing-demo-main/img/hasil%20welcome%20about%20asli%20prak%201.PNG)
 
 Todo: Buatlah halaman /profile yang menampilkan isi biodata anda dengan menggunakan routing di NextJS.
 
@@ -36,13 +32,9 @@ Kode program Profile.tsx
 
 ![img](/routing-demo-main/img/kode%20program%20profile.tsx%20praktikum%201.PNG)
 
-Kode program Page.tsx
-
-![img](/routing-demo-main/img/kode%20program%20page.tsx%20untuk%20profile.PNG)
-
 Hasilnya
 
-![img](/routing-demo-main/img/Hasil%20Biodata%20praktikum%201.PNG)
+![img](/routing-demo-main/img/hasil%20profile%20asli%20prak%201.PNG)
 
 # Praktikum 2: Membuat routing bersarang (Nested Routing)
 
@@ -52,19 +44,22 @@ Hasilnya
 
 2. Pada file /blogs/page.tsx buatlah function component seperti kode berikut atau anda dapat mengkreasikan tampilan dengan selera anda!
 
-![img](/routing-demo-main/img/kode%20program%20page%20folder%20blog%20prak%202.PNG)
+![img](/routing-demo-main/img/kode%20program%20blogs%20prak%202%20asli.PNG)
+
+![img](/routing-demo-main/img/hasil%20kode%20program%20blogs%20prak%202%20asli.PNG)
 
 3. Pada file /blogs/first/page.tsx buatlah function component seperti berikut:
 
 ![img](/routing-demo-main/img/kode%20program%20page%20foler%20first%20prak%202.PNG)
 
+![img](/routing-demo-main/img/hasil%20first%20blog%20prak%202.PNG)
+
 4. Pada file /blogs/second/page.tsx buatlah function component seperti berikut:
 
 ![img](/routing-demo-main/img/kode%20program%20page%20folder%20second%20prak%202.PNG)
 
-Hasilnya setelah ditambahkan page.tsx di folder second 
+![img](/routing-demo-main/img/hasil%20kode%20program%20second%20blogs.PNG)
 
-![img](/routing-demo-main/img/hasil%20praktikum%202.PNG)
 
 
 # Praktikum 3: Membuat routing dinamis (Dynamic Routing)
@@ -92,6 +87,30 @@ Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah hala
 
 ![img](/routing-demo-main/img/kode%20program%20reviews%20todo2%20baru.PNG)
 ![img](/routing-demo-main/img/hasil%20todo%202%20reviews%20baru.PNG)
+
+# Praktikum 4: Navigasi dengan Link Component
+
+1. Pada file /app/page.tsx tambahkan import Link komponen seperti kode berikut.
+
+![img](/routing-demo-main/img/import%20link%20praktikum%204%20langkah%201.PNG)
+
+2. Tambahkan penggunaan Link komponen untuk mengakses halaman /profile dan /about
+
+![img](/routing-demo-main/img/kode%20program%20page%20tsx%20praktikum%204.PNG)
+
+Coba buka browser anda dan cobalah untuk bernavigasi menggunakan Link komponen.
+
+![img](/routing-demo-main/img/hasil%20praktikum%204.PNG)
+
+Todo: Tambahkan link yang sebelumnya anda telah kerjakan!
+
+![img](/routing-demo-main/img/kode%20program%20page%20tambahan%20todo%20praktikum%204.PNG)
+
+![img](/routing-demo-main/img/hasil%20todo%20terakhir%20praktikum%204.PNG)
+
+
+
+
 
 
 
