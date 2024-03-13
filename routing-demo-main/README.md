@@ -44,6 +44,29 @@ Hasilnya
 
 ![img](/routing-demo-main/img/Hasil%20Biodata%20praktikum%201.PNG)
 
+# Praktikum 2: Membuat routing bersarang (Nested Routing)
+
+1. Dengan menggunakan konsep yang sama pada Praktikum 1, silahkan tambahkan susunan folder /blogs/first dan /blogs/second. Kemudian tambahkan masing-masing untuk setiap folder dengan file page.tsx.
+
+![img](/routing-demo-main/img/macam-macam%20folder%20praktikum%202.PNG)
+
+2. Pada file /blogs/page.tsx buatlah function component seperti kode berikut atau anda dapat mengkreasikan tampilan dengan selera anda!
+
+![img](/routing-demo-main/img/kode%20program%20page%20folder%20blog%20prak%202.PNG)
+
+3. Pada file /blogs/first/page.tsx buatlah function component seperti berikut:
+
+![img](/routing-demo-main/img/kode%20program%20page%20foler%20first%20prak%202.PNG)
+
+4. Pada file /blogs/second/page.tsx buatlah function component seperti berikut:
+
+![img](/routing-demo-main/img/kode%20program%20page%20folder%20second%20prak%202.PNG)
+
+Hasilnya setelah ditambahkan page.tsx di folder second 
+
+![img](/routing-demo-main/img/hasil%20praktikum%202.PNG)
+
+
 
 
 

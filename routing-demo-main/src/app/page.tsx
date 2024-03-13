@@ -1,5 +1,6 @@
 import About from "./about/page";
 import Profile from "./about/profile";
+import Blog from "./blogs/page";
 
 export default function Home() {
     
@@ -9,6 +10,8 @@ export default function Home() {
         <About />
         <br></br>
         <Profile />
+        <br></br>
+        <Blog />
         </div>
     );
 
