@@ -60,6 +60,10 @@ Hasilnya
 
 ![img](/routing-demo-main/img/hasil%20kode%20program%20second%20blogs.PNG)
 
+Pertanyaan: Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
+
+Struktur bersarang dapat mempengaruhi kinerja sistem, terutama jika jumlah rute atau tingkat kedalaman nested routing menjadi sangat besar. Hal ini dapat menyebabkan kinerja aplikasi menjadi lambat atau tidak efisien.
+
 
 
 # Praktikum 3: Membuat routing dinamis (Dynamic Routing)
