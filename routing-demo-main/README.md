@@ -67,6 +67,41 @@ Hasilnya setelah ditambahkan page.tsx di folder second
 ![img](/routing-demo-main/img/hasil%20praktikum%202.PNG)
 
 
+# Praktikum 3: Membuat routing dinamis (Dynamic Routing)
+
+1. Buatlah file /products/page.tsx yang berisi function component untuk menampilkan list dari products seperti kode berikut.
+
+![img](/routing-demo-main/img/kode%20program%20praktikum%203%20langkah%201.PNG)
+![img](/routing-demo-main/img/kode%20program%20pagetsx%20langkah%201a%20praktikum%203.PNG)
+![img](/routing-demo-main/img/hasil%20praktikum%203%20langkah%201.PNG)
+
+2. Kemudian buatlah file page.tsx pada lokasi /app/products/[productId] dan tambahkan kode sebagai berikut.
+
+![img](/routing-demo-main/img/kode%20program%20praktikum%203%20langkah%203.PNG)
+
+Cobalah akses halaman /products dan /products/1 pada browser anda. Ubah nilai productId dengan nilai lainnya.
+
+![img](/routing-demo-main/img/hasil%20details%20products1%20praktikum%203.PNG)
+
+Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+
+![img](/routing-demo-main/img/kode%20program%20blogsID%20todo%20praktikum%203.PNG)
+![img](/routing-demo-main/img/hasil%20todo%201%20praktikum%203.PNG)
+
+Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
+
+![img](/routing-demo-main/img/kode%20program%20reviews%20todo2.PNG)
+![img](/routing-demo-main/img/hasil%20todo%202%20reviews.PNG)
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,6 +1,7 @@
 import About from "./about/page";
 import Profile from "./about/profile";
 import Blog from "./blogs/page";
+import ProductList from "./products/page";
 
 export default function Home() {
     
@@ -12,6 +13,7 @@ export default function Home() {
         <Profile />
         <br></br>
         <Blog />
+        <ProductList />
         </div>
     );
 
