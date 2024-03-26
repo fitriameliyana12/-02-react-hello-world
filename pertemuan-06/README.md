@@ -118,6 +118,54 @@ Jika kita kurangi sampai kurang dari 0, maka hasilnya
 
 ![img](/pertemuan-06/img/prak%203%20hasil%20jika%20kurang%20dari%200.PNG)
 
+# Tugas (Pertanyaan Praktikum)
+
+Berdasarkan pada praktikum sebelumnya yang telah dilakukan, beberapa pertanyaan terkait praktikum perlu diselesaikan yaitu sebagai berikut.
+
+1. Apa kegunaan dari kode ini import { useEffect } from "react"; Pada file pages/_app.tsx? jelaskan
+
+Jawaban : Kode tersebut mengimpor useEffect dari pustaka React. useEffect adalah salah satu hook yang disediakan oleh React untuk mengelola efek samping dalam komponen fungsional. 
+Ini digunakan untuk melakukan tindakan selama atau setelah render sebuah komponen.
+Secara keseluruhan, tujuan kode ini adalah untuk memastikan bahwa skrip JavaScript Bootstrap dimuat setelah aplikasi dirender, 
+sehingga Bootstrap dapat diterapkan secara konsisten di seluruh aplikasi.
+
+
+2. Jika pada file pages/_app.tsx kita tidak menggunakan useEffect (menghapus baris 3, dan baris 9-11, apa yang akan terjadi?
+
+Jawaban : Jika Anda menghapus baris yang mengimpor useEffect dan juga bagian yang menggunakan useEffect dari kode pages/_app.tsx, maka konsekuensinya adalah bahwa skrip JavaScript Bootstrap tidak akan dimuat secara otomatis setiap kali aplikasi dirender.
+
+
+3. Mengapa di react/nextjs penulisan tag html untuk class, harus diganti menjadi className ?
+
+Jawaban : 
+Penggantian class menjadi className dalam React dan Next.js dilakukan untuk menghindari konflik dengan kata kunci JavaScript class, yang digunakan untuk mendefinisikan kelas. Dengan menggunakan className, 
+kita memastikan bahwa JSX tidak bingung antara atribut HTML class dan kata kunci JavaScript class.
+
+
+4. Apakah store pada nextjs bisa menyimpan banyak redux reducer?
+
+Jawaban : Ya, dalam Next.js Anda dapat menggunakan Redux untuk menyimpan banyak reducer. Redux sendiri adalah alat manajemen status yang memungkinkan Anda menyimpan semua data aplikasi Anda dalam satu store global. 
+Anda dapat memiliki banyak reducer di Redux, dan setiap reducer mengelola bagian tertentu dari state aplikasi Anda.
+
+
+5. Jelaskan kegunaan dari file store.js!
+
+Jawaban : Membuat Store Redux: Menggabungkan reducer-reducer menjadi satu root reducer dan membuat store Redux menggunakan fungsi createStore().Menyediakan Store untuk Aplikasi: Mengekspor store sehingga dapat diakses dari berbagai bagian aplikasi, memungkinkan komponen-komponen untuk mengakses dan memperbarui state aplikasi yang disimpan di dalam store Redux.
+
+
+6. Pada file pages/login.tsx, apa maksud dari kode ini ?
+const { isLogin } = useSelector((state) => state.auth);
+
+Jawaban : digunakan untuk mengambil nilai isLogin dari state Redux menggunakan hook useSelector yang disediakan oleh React Redux. Ini berarti kita dapat menggunakan nilai isLogin dari state Redux untuk menentukan bagaimana tampilan UI pada komponen LoginCheck akan ditampilkan, berdasarkan status login pengguna. Jika isLogin bernilai true, maka pesan berhasil login dan tombol "Log out" akan ditampilkan. 
+Jika isLogin bernilai false, maka pesan Anda telah logout dan tombol "Log in" akan ditampilkan.
+
+
+7. Pada file pages/counter.tsx, apa maksud dari kode ini?
+const {totalCounter} = useSelector((state) => state.counter);
+
+Jawaban : Tentu! Potongan kode itu mengambil nilai totalCounter dari state aplikasi menggunakan Redux Toolkit. Ini seperti mengambil jumlah mobil yang telah dihitung dalam aplikasi kita. Kemudian, nilai totalCounter digunakan untuk menampilkan jumlah mobil tersebut di layar. Jadi, secara sederhana, potongan kode tersebut membantu kita menampilkan jumlah mobil yang ada dalam aplikasi kita.
+
+
 
 
 
