@@ -163,7 +163,7 @@ Jika isLogin bernilai false, maka pesan Anda telah logout dan tombol "Log in" ak
 7. Pada file pages/counter.tsx, apa maksud dari kode ini?
 const {totalCounter} = useSelector((state) => state.counter);
 
-Jawaban : Tentu! Potongan kode itu mengambil nilai totalCounter dari state aplikasi menggunakan Redux Toolkit. Ini seperti mengambil jumlah mobil yang telah dihitung dalam aplikasi kita. Kemudian, nilai totalCounter digunakan untuk menampilkan jumlah mobil tersebut di layar. Jadi, secara sederhana, potongan kode tersebut membantu kita menampilkan jumlah mobil yang ada dalam aplikasi kita.
+Jawaban : Potongan kode itu mengambil nilai totalCounter dari state aplikasi menggunakan Redux Toolkit. Ini seperti mengambil jumlah mobil yang telah dihitung dalam aplikasi kita. Kemudian, nilai totalCounter digunakan untuk menampilkan jumlah mobil tersebut di layar. Jadi, secara sederhana, potongan kode tersebut membantu kita menampilkan jumlah mobil yang ada dalam aplikasi kita.
 
 
 
