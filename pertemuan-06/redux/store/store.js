@@ -1,7 +1,10 @@
 import { combineReducers, configureStore } from '@reduxjs/toolkit';
 import authReducer from '../auth/authSlice';
+import counterReducer from '../counter/naikTurunSlice';
 import storage from 'redux-persist/lib/storage';
 import { persistStore, persistReducer, FLUSH, REHYDRATE, PAUSE, PERSIST, PURGE, REGISTER } from 'redux-persist';
+import { naikTurunSlice } from '../counter/naikTurunSlice';
+
 
 const persistConfig = {
    key: process.env.NEXT_PUBLIC_FINGERPRINT_NAME,   // simpan config di file .env.local
@@ -11,6 +14,8 @@ const persistConfig = {
 
 const rootReducer = combineReducers({
    auth: authReducer,
+   naikTurun: naikTurunSlice.reducer,
+ // Gunakan nama slice yang benar
 });
 
 const persistedReducer = persistReducer(persistConfig, rootReducer);

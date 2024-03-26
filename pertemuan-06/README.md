@@ -1,6 +1,9 @@
  Nama  : Fitria Meliyana
+
  NIM   : 2341727002
+
  Kelas : TI-4J
+
 
 
 # Praktikum 1: Instalasi Redux dan bootstrap
@@ -90,6 +93,35 @@ Yang terjadi seperti gambar di bawah ini
 2. Baris 37 dan 43 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan method tersebut?
 
 Tanpa menggunakan metode parse(), string HTML yang dimasukkan langsung ke dalam JSX akan ditampilkan sebagai teks biasa di layar, bukan sebagai kotak pesan atau tombol yang Anda harapkan. Ini berarti, jika Anda menghilangkan parse() dan tetap menggunakan string HTML seperti yang Anda lakukan dalam kode program tersebut, teks tersebut akan muncul di layar tanpa diinterpretasikan sebagai elemen HTML yang sesungguhnya. Dengan menggunakan parse(), string HTML diubah menjadi elemen-elemen React yang sesuai, sehingga kotak pesan dan tombol yang dihasilkan akan sesuai dengan tampilan yang diharapkan.
+
+# Praktikum 3: Membuat Aplikasi Counter Sederhana
+
+1. Kita buat file di redux/counter/naikTurunSlice.js
+
+![img](/pertemuan-06/img/prak%203%20naikturunSlice.js)
+
+2. Setelah itu kita modifikasi redux/store/store.js untuk menambahkan Redux reducer pada store
+
+![img](/pertemuan-06/img/prak%203%20store.js)
+
+3. Selanjutnya kita buat halaman untuk menampilkan counter.Kita buat file baru di pages/counter.tsx
+
+![img](/pertemuan-06/img/prak%203%20counter.tsx%201.PNG)
+
+![img](/pertemuan-06/img/prak%203%20counter.tsx%202.PNG)
+
+Maka hasilnya akan seperti di bawah ini 
+
+![img](/pertemuan-06/img/prak%203%20hasil.PNG)
+
+Jika kita kurangi sampai kurang dari 0, maka hasilnya
+
+![img](/pertemuan-06/img/prak%203%20hasil%20jika%20kurang%20dari%200.PNG)
+
+
+
+
+
 
 
 
