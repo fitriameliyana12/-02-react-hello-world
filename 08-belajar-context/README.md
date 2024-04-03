@@ -94,6 +94,74 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 ![img](/08-belajar-context/img/prak%201%20hasil%20soal%20no%203.PNG)
 
 
+# Praktikum 2: Membuat Context melewati komponen perantara
+
+1. Langkah 1: Buat komponen atom baru
+
+Buatlah file baru di src\components\atoms\section2.tsx berisi kode sebagai berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20section2.PNG)
+
+ Lalu buatlah file baru di src\components\atoms\post.tsx dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20post.PNG)
+
+ Selanjutnya kita buat molecules di src\components\molecules\recentpost.tsx dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20recentpost.PNG)
+
+ Kemudian buat organisms di src\components\organisms\allpost.tsx dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20allpost.PNG)
+
+ Terakhir kita buat templates di src\components\templates\profile_page.tsx dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20profile%20page.PNG)
+
+2. Langkah 2: Tambahkan ProfilePage ke page.tsx lalu run
+
+Tambahkan komponen ProfilePage seperti kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20nambah%20profilepage%20ke%20page.PNG)
+
+Hapus bagian theme pada file tailwind.config.ts seperti kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20hapus%20theme.PNG)
+
+Hapus semua style CSS di file src\app\globals.css lalu ganti dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20globals%20css.PNG)
+
+Ketika Anda run dengan npm run dev maka di browser akan tampil seperti berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20hasilnya.PNG)
+
+Soal 4
+
+Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada bagian komponen Post agar menunjukkan itu hasil kerja Anda!
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20soal%20no%204.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
