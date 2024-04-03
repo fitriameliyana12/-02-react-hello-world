@@ -76,6 +76,24 @@ Hasilnya :
 
 ![img](/08-belajar-context/img/prak%201%20hasil%20soal%20no%202%20perbaikan%20error%20kedua.PNG)
 
+8. Langkah 6: Menggunakan dan menyediakan context dari komponen yang sama
+
+Berikut adalah bagaimana Anda dapat melakukannya dengan mengubah sedikit kode pada komponen Section:
+
+![img](/08-belajar-context/img/prak%201%20langkah%206%20section.PNG)
+
+Dengan perubahan ini, Anda tidak perlu mengoper prop level baik ke < Section > atau ke < Heading >:
+
+![img](/08-belajar-context/img/prak%201%20langkah%206%20main%20page.PNG)
+
+![img](/08-belajar-context/img/prak%201%20langkah%206%20heading.PNG)
+
+Soal 3
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![img](/08-belajar-context/img/prak%201%20hasil%20soal%20no%203.PNG)
+
+
 
 
 
