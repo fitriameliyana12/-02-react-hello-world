@@ -142,6 +142,99 @@ Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM p
 
 ![img](/08-belajar-context/img/prak%202%20langkah%202%20soal%20no%204.PNG)
 
+# Praktikum 3: Membuat Context Tema Light/Dark
+
+1. Langkah 1: Membuat variabel tema
+
+Buatlah file dan folder baru di src\utilities\themes\mythemes.tsx yang berisi kode berikut.
+
+![img](/08-belajar-context/img/prak%203%20langkah%201%20mythemes.PNG)
+
+Kemudian buatlah contextnya di file src\utilities\contexts\mycontext.tsx
+
+![img](/08-belajar-context/img/prak%203%20langkah%201%20mycontext.PNG)
+
+2. Langkah 2: Buat komponen atom NavBar
+
+Buatlah file baru di src\components\atoms\navbar.tsx
+
+![img](/08-belajar-context/img/prak%203%20langkah%202%20navbar.PNG)
+
+3. Langkah 3: Buat Provider
+
+Buatlah provider di src\components\atoms\myapp.tsx
+
+![img](/08-belajar-context/img/prak%203%20langkah%203%20myapp.PNG)
+
+4. Langkah 4: Buat masing-masing page
+
+Pindahkan komponen ProfilePage ke file src\components\templates\profile_page.tsx
+
+![img](/08-belajar-context/img/prak%203%20langkah%204%20profile_page.PNG)
+
+Sehingga struktur folder di templates menjadi seperti berikut. Anda dapat berkreasi dengan konten pada About dan Contacts.
+
+![img](/08-belajar-context/img/prak%203%20langkah%204%20foler-folder.PNG)
+
+5. Langkah 5: Buat routing
+
+Buatlah folder dan file baru di dalam app agar routing page masing-masing dapat diakses seperti berikut.
+
+![img](/08-belajar-context/img/prak%203%20langkah%205%20folder-folder.PNG)
+
+Gantilah isi kode pada src\app\page.tsx menjadi seperti berikut.
+
+![img](/08-belajar-context/img/prak%203%20langkah%205%20page%20benar.PNG)
+
+Termasuk di masing-masing page src\app\profile\page.tsx, untuk page About dan Contacs silakan Anda sesuaikan.
+
+![img](/08-belajar-context/img/prak%203%20langkah%205%20profile%20page.PNG)
+
+untuk src\app\contact\page.tsx
+
+![img](/08-belajar-context/img/prak%203%20langkah%205%20contact%20page.PNG)
+
+untuk src\app\about\page.tsx
+
+![img](/08-belajar-context/img/prak%203%20langkah%205%20about%20page.PNG)
+
+Soal 5
+Silakan save semua dan lakukan running di browser Anda. Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada setiap page routing agar menunjukkan itu hasil kerja Anda sendiri!
+
+Hasil untu Home
+
+![img](/08-belajar-context/img/prak%203%20hasil%20home.PNG)
+
+Hasil untuk About
+
+![img](/08-belajar-context/img/prak%203%20hasil%20about.PNG)
+
+Hasil untuk Contact
+
+![img](/08-belajar-context/img/prak%203%20hasil%20contact.PNG)
+
+Hasil untuk Profile
+
+![img](/08-belajar-context/img/prak%203%20hasil%20profile.PNG)
+
+Hasil untuk Set Dark Theme
+
+![img](/08-belajar-context/img/prak%203%20hasil%20dark%20mode.PNG)
+
+
+Apakah toggle button tema sudah berfungsi ? jika belum, silakan perbaiki!
+
+Sudah berfungsi 
+
+Mengapa ketika refresh atau berpindah halaman tema tidak permanen ? Buatlah menjadi permanen walaupun page sudah direfresh dan pindah halaman!
+
+
+
+
+
+
+
+
 
 
 
