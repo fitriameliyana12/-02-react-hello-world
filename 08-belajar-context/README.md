@@ -201,25 +201,25 @@ untuk src\app\about\page.tsx
 Soal 5
 Silakan save semua dan lakukan running di browser Anda. Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada setiap page routing agar menunjukkan itu hasil kerja Anda sendiri!
 
-Hasil untu Home
+Hasil untuk Home
 
-![img](/08-belajar-context/img/prak%203%20hasil%20home.PNG)
+![img](/08-belajar-context/img/prak%203%20hasil%20home%20asli%20yang%20benar.PNG)
 
 Hasil untuk About
 
-![img](/08-belajar-context/img/prak%203%20hasil%20about.PNG)
+![img](/08-belajar-context/img/prak%203%20hasil%20about%20yang%20benar.PNG)
 
 Hasil untuk Contact
 
-![img](/08-belajar-context/img/prak%203%20hasil%20contact.PNG)
+![img](/08-belajar-context/img/prak%203%20hasil%20contact%20yang%20benar.PNG)
 
 Hasil untuk Profile
 
-![img](/08-belajar-context/img/prak%203%20hasil%20profile.PNG)
+![img](/08-belajar-context/img/prak%203%20hasil%20profile%20yang%20benar.PNG)
 
 Hasil untuk Set Dark Theme
 
-![img](/08-belajar-context/img/prak%203%20hasil%20dark%20mode.PNG)
+![img](/08-belajar-context/img/prak%203%20hasil%20set%20dark%20yang%20benar.PNG)
 
 
 Apakah toggle button tema sudah berfungsi ? jika belum, silakan perbaiki!
