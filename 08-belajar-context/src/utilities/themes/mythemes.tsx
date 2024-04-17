@@ -5,6 +5,6 @@ export const themes = {
     },
     'light': {
         background: 'white',
-        color: 'black,'
+        color: 'black',
     },
 };

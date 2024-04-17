@@ -10,4 +10,4 @@ export default function Section({ children }: { children: any }) {
             </LevelContext.Provider>
         </section>
     );
-}
+} 
