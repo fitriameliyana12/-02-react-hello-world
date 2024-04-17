@@ -228,6 +228,28 @@ Sudah berfungsi
 
 Mengapa ketika refresh atau berpindah halaman tema tidak permanen ? Buatlah menjadi permanen walaupun page sudah direfresh dan pindah halaman!
 
+Kode Program myapp.tsx yang diganti menjadi
+
+![img](/08-belajar-context/img/prak%203%20kode%20program%201%20ganti%20dark%20permanen.PNG)
+
+![img](/08-belajar-context/img/prak%203%20kode%20program%202%20ganti%20dark%20permanen.PNG)
+
+Hasilnya menjadi seperti dibawah ini
+
+Untuk Home
+
+![img](/08-belajar-context/img/prak%203%20hasil%20Home%20dark.PNG)
+
+Untuk About
+
+![img](/08-belajar-context/img/prak%203%20hasil%20%20About%20dark.PNG)
+
+Untuk Contact
+
+![img](/08-belajar-context/img/prak%203%20hasil%20contact%20dark.PNG)
+
+
+
 
 
 
