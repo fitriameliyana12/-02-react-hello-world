@@ -1,7 +1,7 @@
 Langkah 1 : Buat Folder Baru
 
 Langkah 2 : Buat Project Baru
-![img](/-02-react-hello-world/2/img/1.PNG)
+![img](/2/img/1.PNG)
 
 Soal 1
 Pada gambar tersebut, silakan Anda browsing apa yang dimaksud dengan:
