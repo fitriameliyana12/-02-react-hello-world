@@ -1,7 +1,7 @@
 Langkah 1 : Buat Folder Baru
 
 Langkah 2 : Buat Project Baru
-![img](/img/1.PNG)
+![img](/-02-react-hello-world/2/img/1.PNG)
 
 Soal 1
 Pada gambar tersebut, silakan Anda browsing apa yang dimaksud dengan:
@@ -14,7 +14,7 @@ Import alias : adalah nama alternatif atau nama singkat untuk cmdlet atau untuk 
 
 Langkah 3 : Buka dengan VS Code
 
-![img](/img/macam-macam%20folder.PNG)
+![img](/-02-react-hello-world/2/img/macam-macam%20folder.PNG)
 
 Soal 2
 Pada struktur project tersebut, jelaskan kegunaan folder dan file masing-masing tersebut!
@@ -36,14 +36,14 @@ Pada struktur project tersebut, jelaskan kegunaan folder dan file masing-masing 
 
 
 Langkah 4: Run
-![img](/img/terminal.PNG)
+![img](/-02-react-hello-world/2/img/terminal.PNG)
 
 Jika di browser telah tampil seperti gambar berikut ini, Selamat!
-![img](/img/selamat.PNG)
+![img](/-02-react-hello-world/2/img/selamat.PNG)
 
 Soal 3
 Gantilah teks pada bagian atas dengan Nama - NIM Anda. Contoh seperti gambar berikut:
-![img](/img/nama%20nim.PNG)
+![img](/-02-react-hello-world/2/img/nama%20nim.PNG)
 
 Ketika Anda telah berhasil mengganti teks tersebut, Anda tidak perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman di browser. Tiba-tiba perubahan itu tampil, Mengapa terjadi demikian? Jelaskan!
 Jawaban : penggunaan npm run dev digunakan dalam pengembangan perangkat lunak untuk menjalankan serve pengembangan lokal secara otomatis, ini dikarenakan mengunakan alat seperti reactJS secara otomatis.
@@ -51,7 +51,7 @@ Jawaban : penggunaan npm run dev digunakan dalam pengembangan perangkat lunak un
 
 Cobalah buat project react lainnya dengan menggunakan framework Remix dan Gatsby. Ini tidak perlu di push, cukup screenshot dan jelaskan perbedaannya diantara ketiga framework tersebut (termasuk Next.js) di file README nomor 1.
 
-![img](/img/welcome%20remix.PNG)
-![img](/img/welcome%20gatsby.PNG)
+![img](/-02-react-hello-world/2/img/welcome%20remix.PNG)
+![img](/-02-react-hello-world/2/img/gatsby.PNG)
 
 ketika mempertimbangkan opsi Next.js, Remix, dan Gatsby, jelas bahwa Next.js menonjol sebagai kerangka kerja yang paling matang dan mapan. Dengan basis pengguna yang lebih besar, dokumentasi yang luas, dan dukungan komunitas yang kuat, Next.js adalah pilihan yang dapat diandalkan. Ini juga mendukung situs statis dan dinamis, menjadikannya solusi yang cocok untuk berbagai kasus penggunaan.Di sisi lain, jika kesederhanaan, kecepatan, dan pengaturan minimal adalah prioritas Anda, Remix mungkin merupakan pilihan yang lebih sesuai. Meskipun masih dalam tahap pengembangan dan belum memiliki banyak contoh serta kasus penggunaan, aplikasi ini mendapatkan tanggapan positif dari para pengembang dan menunjukkan harapan di masa depan.Mengenai Gatsby, ia mengalami penurunan popularitas, namun tetap menjadi pilihan yang lebih cepat dan ringan karena kemampuan pembuatan situs statisnya.
