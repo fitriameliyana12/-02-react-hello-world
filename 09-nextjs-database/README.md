@@ -141,6 +141,85 @@ Menjelajah Basis Data
 Soal 4
 Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan jelaskan!
 
+# Praktikum 2: Fetching Data (API)
+
+Membuat Global Query (Model)
+
+1. Pertama, siapkan struktur folder project Anda seperti pada gambar berikut ini.
+
+![img](/09-nextjs-database/img/prak%202%20no%201.PNG)
+
+2. Selanjutnya buat 2 file di dalam folder model yaitu definitions.tsx dan query.tsx. Kemudian salin kode berikut ini.
+
+![img](/09-nextjs-database/img/prak%202%20no%202%20a.PNG)
+
+src/model/definitions.tsx
+
+![img](/09-nextjs-database/img/prak%202%20no%202%20definitions%201.PNG)
+![img](/09-nextjs-database/img/prak%202%20no%202%20definitions%202.PNG)
+
+src/model/query.tsx
+
+![img](/09-nextjs-database/img/prak%202%20no%202%20query%201.PNG)
+![img](/09-nextjs-database/img/prak%202%20no%202%20query%202.PNG)
+
+3. Kemudian buat file utils.tsx di dalam folder utils dengan berisi kode berikut.
+
+src/utils/utils.tsx
+
+![img](/09-nextjs-database/img/prak%202%20no%203%20utils.PNG)
+
+Membuat Komponen Atom
+
+4. Lalu isi folder atoms dengan file fonts.tsx dengan kode berikut.
+src\app\components\atoms\fonts.tsx
+
+![img](/09-nextjs-database/img/prak%202%20no%204%20atom%20fonts.PNG)
+
+5. Buat komponen molecules, ada 3 file yaitu card.tsx, latest-invoices.tsx, dan revenue-chart.tsx.
+card.tsx
+
+card.tsx
+
+![img](/09-nextjs-database/img/prak%202%20chart.PNG)
+
+latest-invoices.tsx
+
+![img](/09-nextjs-database/img/prak%202%20invoices.PNG)
+
+revenue-chart.tsx
+
+![img](/09-nextjs-database/img/prak%202%20revenue.PNG)
+
+Hasilnya ada beberapa kode programnya yang eror
+
+![img](/09-nextjs-database/img/prak%202%20error%20hero%20icons.PNG)
+
+![img](/09-nextjs-database/img/prak%202%20eror%20clx.PNG)
+
+Troubleshooting:
+
+Jika Anda mengalami error karena beberapa modul tidak ditemukan, silakan Anda dapat menginstallnya terlebih dahulu dengan perintah berikut:
+
+npm i --save @heroicons/react
+
+![img](/09-nextjs-database/img/prak%202%20npm%20hero%20icons.PNG)
+
+npm i --save clsx
+
+![img](/09-nextjs-database/img/prak%202%20npm%20clsx.PNG)
+
+Kemudian perhatikan pada file package.json akan ada tambahan dependensi library yang telah berhasil ter-instal.
+
+![img](/09-nextjs-database/img/prak%202%20tambahan%20package.json)
+
+Terakhir, ganti semua kode di src/app/page.tsx dengan kode berikut.
+
+![img](/09-nextjs-database/img/prak%202%20page.tsx)
+
+Soal 5
+Lakukan push, kemudian perhatikan di akun dashboard Vercel project Anda. Capture dan lampirkan link aplikasi Anda yang telah berhasil di deploy, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+
 
 
 
