@@ -118,8 +118,7 @@ Jika berhasil melakukan seeding data ke database Postgre Vercel, maka akan tampi
 ![img](/09-nextjs-database/img/prak%201%20c%20berhasil%20error%20nya.PNG)
 
 Soal 3
-Capture hasil npm run seed Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
-Jangan lupa push dengan pesan commit: "W09: Jawaban soal 3".
+Capture hasil npm run seed Anda dan buatlah laporan di file README.md. 
 
 
 
