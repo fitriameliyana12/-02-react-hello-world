@@ -120,6 +120,28 @@ Jika berhasil melakukan seeding data ke database Postgre Vercel, maka akan tampi
 Soal 3
 Capture hasil npm run seed Anda dan buatlah laporan di file README.md. 
 
+Menjelajah Basis Data
+
+1. Buka akun vercel Anda, cek pada sidenav klik Data seperti gambar di bawah ini.
+
+![img](/09-nextjs-database/img/prak%201%20d%20no%201.png)
+
+2. Pada bagian Browser, Anda akan melihat tabel baru terdiri dari: users, customers, invoices, dan revenue.
+
+3. Dengan memilih setiap tabel tersebut, pastikan data telah sesuai seperti pada file src/seeder/data.js
+
+4. Anda dapat melakukan query SQL dengan klik tab Query.
+
+5. Cobalah eksekusi query berikut ini.
+
+![img](/09-nextjs-database/img/prak%201%20d%20no%205.PNG)
+
+![img](/09-nextjs-database/img/prak%201%20d%20jwaban%20no%205.PNG)
+
+Soal 4
+Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan jelaskan!
+
+
 
 
 
