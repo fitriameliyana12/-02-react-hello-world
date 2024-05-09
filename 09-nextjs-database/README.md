@@ -10,7 +10,7 @@ Membuat project baru dengan templat
 
 1. Mulailah membuat repo berdasarkan templat starter code ini: https://github.com/jti-polinema/09-nextjs-database (klik pada Use this template) kemudian beri nama repo: 09-nextjs-database pada akun GitHub Anda.
 
-![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%201.PNG)
+![img](/09-nextjs-database/img/prak%201%20no%201.PNG)
 
  Membuat Akun Vercel
 
@@ -18,29 +18,29 @@ Membuat project baru dengan templat
 
 3. Pilih plan free "hobby" dan isi dengan nama Anda.
 
-![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%203.PNG)
+![img](/09-nextjs-database/img/prak%201%20no%203.PNG)
 
 4. Kemudian pilih Continue with GitHub untuk terkoneksi dengan akun Vercel.
 
-![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%204.PNG)
+![img](/09-nextjs-database/img/prak%201%20no%204.PNG)
 
  Koneksikan dan Deploy project Anda
 
 5. Selanjutnya, Anda akan diarahkan screen berikut untuk memilih repo dan impor dari GitHub yang telah Anda buat pada langkah nomor 1 tadi.
 
-![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%205.PNG)
+![img](/09-nextjs-database/img/prak%201%20no%205.PNG)
 
 6. Beri nama project Anda dan klik Deploy.
 
-![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%206.PNG)
+![img](/09-nextjs-database/img/prak%201%20no%206.PNG)
 
 7. Tunggu proses deploy selama ± 1 menit.
 
-![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%207.PNG)
+![img](/09-nextjs-database/img/prak%201%20no%207.PNG)
 
 8. Hooray! 🥳 Project Anda sekarang sudah berhasil deploy di server Vercel.
 
-![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%208.PNG)
+![img](/09-nextjs-database/img/prak%201%20no%208.PNG)
 
 Soal 1
 
