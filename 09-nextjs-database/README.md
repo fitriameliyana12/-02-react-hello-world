@@ -53,23 +53,23 @@ Membuat basis data Postgres
 
 1. Selanjutnya untuk setup database, klik Continue to Dashboard dan pilih tab Storage pada dashboard project Anda. Lalu pilih Create pada basis data Postgres.
 
-![img](/img/prak%201%20b%20no%201.PNG)
+![img](/09-nextjs-database/img/prak%201%20b%20no%201.PNG)
 
 2. Setujui terms, beri nama basis data, dan pastikan region basis data di set ke Washington D.C (iad1) - ini merupakan default region untuk semua project baru di Vercel. Meletakkan basis data pada region yang sama atau semakin dekat dengan kode aplikasi, Anda dapat mengurangi latency pada tiap request data.
 
-![img](/img/prak%201%20b%20no%202.PNG)
+![img](/09-nextjs-database/img/prak%201%20b%20no%202.PNG)
 
 3. Setelah berhasil terhubung, arahkan pada tab .env.local, klik Show secret dan Copy Snippet seperti pada gambar berikut.
 
-![img](/img/prak%201%20b%20no%203a.PNG)
+![img](/09-nextjs-database/img/prak%201%20b%20no%203a.PNG)
 
 4. Buat file baru .env pada root project Anda, lalu paste hasil Copy Snippet tersebut.
 
-![img](/img/prak%201%20b%20no%204.PNG)
+![img](/09-nextjs-database/img/prak%201%20b%20no%204.PNG)
 
 5. Akhirnya, jalankan perintah berikut di terminal untuk install Vercel Postgres SDK.
 
-![img](/img/prak%201%20b%20no%205.PNG)
+![img](/09-nextjs-database/img/prak%201%20b%20no%205.PNG)
 
 Soal 2
 
