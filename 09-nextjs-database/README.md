@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Nama : Fitria Meliyana
 
-## Getting Started
+NIM : 2341727002
 
-First, run the development server:
+Kelas : TI-4J
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Praktikum 1: Setup Database
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Membuat project baru dengan templat
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Mulailah membuat repo berdasarkan templat starter code ini: https://github.com/jti-polinema/09-nextjs-database (klik pada Use this template) kemudian beri nama repo: 09-nextjs-database pada akun GitHub Anda.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%201.PNG)
 
-## Learn More
+ Membuat Akun Vercel
 
-To learn more about Next.js, take a look at the following resources:
+2. Selanjutnya buat akun vercel (jika Anda belum memilikinya) di tautan ini https://vercel.com/signup
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Pilih plan free "hobby" dan isi dengan nama Anda.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%203.PNG)
 
-## Deploy on Vercel
+4. Kemudian pilih Continue with GitHub untuk terkoneksi dengan akun Vercel.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%204.PNG)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+ Koneksikan dan Deploy project Anda
+
+5. Selanjutnya, Anda akan diarahkan screen berikut untuk memilih repo dan impor dari GitHub yang telah Anda buat pada langkah nomor 1 tadi.
+
+![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%205.PNG)
+
+6. Beri nama project Anda dan klik Deploy.
+
+![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%206.PNG)
+
+7. Tunggu proses deploy selama ± 1 menit.
+
+![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%207.PNG)
+
+8. Hooray! 🥳 Project Anda sekarang sudah berhasil deploy di server Vercel.
+
+![img](/-02-react-hello-world/09-nextjs-database/img/prak%201%20no%208.PNG)
+
+Soal 1
+
+Capture hasil deploy project Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari?
+Jangan lupa push dengan pesan commit: "W09: Jawaban soal 1".
+
+Dengan menggunakan Vercel dapat memudahkan pengembang untuk membangun, mendeploy dan mengelola situs web dan aplikasi front-end. Setiap kali pengembang melakukan perubahan ke proyek dan mengirimkannya ke repositori git, Vercel secara otomatis akan mendeteksi perubahan tersebut dan melakukan proses deploy baru dalam hitungan detik. Hal ini memungkinkan pengembang untuk melihat perubahan mereka secara langsung di lingkungan produksi dengan cepat dan mudah.
+
+
+
