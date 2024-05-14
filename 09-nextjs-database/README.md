@@ -220,7 +220,11 @@ Terakhir, ganti semua kode di src/app/page.tsx dengan kode berikut.
 Soal 5
 Lakukan push, kemudian perhatikan di akun dashboard Vercel project Anda. Capture dan lampirkan link aplikasi Anda yang telah berhasil di deploy, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 
+![img](/09-nextjs-database/img/prak%202%20hasil%20dashboard%20vercel.PNG)
 
+Link: 
+
+https://pbf-09-nextjs-database.vercel.app/
 
 
 
