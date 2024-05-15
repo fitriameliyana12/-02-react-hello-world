@@ -249,7 +249,7 @@ Jika Anda cek pada localhost, Anda akan melihat 5 data yang diambil dari basis d
 
 # Tugas Praktikum
 
-Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut.
+1. Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut.
 
 card.tsx 
 
@@ -263,6 +263,9 @@ Hasilnya
 
 ![img](/09-nextjs-database/img/tugas%20praktikum.PNG)
 
+2. Perhatikan fungsi fetchCardData() (pada file src\model\query.tsx) dari soal nomor 1. Jelaskan maksud kode dan kueri yang dilakukan dalam fungsi tersebut!
+
+Kode tersebut terdiri dari berbagai fungsi yang digunakan untuk mengakses data dari database PostgreSQL. Fungsi-fungsi ini mencakup pengambilan data pendapatan, tagihan terbaru, data kartu dashboard, tagihan yang difilter, halaman tagihan, data pelanggan, pelanggan yang difilter, dan pengguna berdasarkan alamat email. Untuk interaksi dengan database, digunakan modul @vercel/postgres, sementara fungsi formatCurrency() digunakan untuk memformat mata uang.
 
 
 
