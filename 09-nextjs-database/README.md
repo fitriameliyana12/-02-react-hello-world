@@ -267,5 +267,9 @@ Hasilnya
 
 Kode tersebut terdiri dari berbagai fungsi yang digunakan untuk mengakses data dari database PostgreSQL. Fungsi-fungsi ini mencakup pengambilan data pendapatan, tagihan terbaru, data kartu dashboard, tagihan yang difilter, halaman tagihan, data pelanggan, pelanggan yang difilter, dan pengguna berdasarkan alamat email. Untuk interaksi dengan database, digunakan modul @vercel/postgres, sementara fungsi formatCurrency() digunakan untuk memformat mata uang.
 
+Link: 
+
+https://pbf-09-nextjs-database.vercel.app/
+
 
 
