@@ -227,5 +227,42 @@ Link:
 https://pbf-09-nextjs-database.vercel.app/
 
 
+Fetching Data untuk komponen RevenueChart
+
+Buka file src\app\page.tsx. Kemudian hapus comment pada komponen RevenueChart
+
+![img](/09-nextjs-database/img/prak%202%20no%208.PNG)
+
+Coba running localhost atau langsung deploy ke Vercel dengan cara push.
+
+![img](/09-nextjs-database/img/prak%202%20no%2010.PNG)
+
+Fetching Data untuk komponen LatestInvoices
+
+Buka src\app\page.tsx kemudian lakukan import komponen LatestInvoices, lalu hapus comment pada komponen LatestInvoices di dalam fungsi Page(). 
+
+![img](/09-nextjs-database/img/prak%202%20no%2011.PNG)
+
+Jika Anda cek pada localhost, Anda akan melihat 5 data yang diambil dari basis data (bagian Latest Invoices). 
+
+![img](/09-nextjs-database/img/prak%202%20no%2012.PNG)
+
+# Tugas Praktikum
+
+Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut.
+
+card.tsx 
+
+![img](/09-nextjs-database/img/kode%20program%20card%20tugas%20praktikum.PNG)
+
+page.tsx
+
+![img](/09-nextjs-database/img/kode%20program%20page%20untuk%20tugas.PNG)
+
+Hasilnya 
+
+![img](/09-nextjs-database/img/tugas%20praktikum.PNG)
+
+
 
 
